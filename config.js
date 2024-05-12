@@ -4,12 +4,12 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 import moment from "moment-timezone"
 
 async function loadConfig() {
-global.owner = [['+6285767373425', 'Torpedro', true],['62895612153565'], ['6282268003229'], ['6283820073017'],['6283850230191'],["6283825536262"],['6285179855248']]
+global.owner = [['6283803489747', 'Torpedro', true],['6283803489747'], ['6283803489747'], ['6283803489747'],['6283803489747'],["6283803489747"],['6283803489747']]
  // ['6283820073017', '436506665652696', '6285240750713']
   // [number, dia creator/owner?, dia developer?]
 // Put your number here
 global.mods = [] // Want some help? nothing
-global.prems = ['6285643029355', '19292452222', '+19294535720', '62838399233855'] // Premium user has unlimited limit
+global.prems = ['6283803489747', '6283803489747', '6285892832476', '6285892832476'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   marin: 'https://api.marinkitagawa.toys'
@@ -80,8 +80,8 @@ global.chara = "mOuKD3RdUXdqnaRRKjm8An-VwdRmJyD4KdCikYEwHEM"
 //===========> BAGIAN TEXT <==============//
 global.namaowner = 'Pedro'
 global.me = 'Created By Pedro'
-global.ownerbot = "6285767373425"
-global.nomorbot = '6289637133848'
+global.ownerbot = "6283803489747"
+global.nomorbot = '6285892832476'
 global.namebot = 'Pedros bot'
 global.wait = "_In progress, please wait..._"
 global.yt = "https://youtube.com"
