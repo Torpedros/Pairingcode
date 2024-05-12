@@ -93,8 +93,8 @@ let handler = async (m, {
     ].getRandom()
     let vn = "https://raw.githubusercontent.com/AyGemuy/HAORI-API/main/audio/" + soun + ".mp3"
     let ppl = await( await conn.profilePictureUrl(m.sender, 'image').catch(() => 'https://telegra.ph/file/24fa902ead26340f3df2c.png'))
-    const text = `*\`🌟 Selamat datang di dashboard bot Marin-Kitagawa\`*!\n`
-    const caption = `> ────────────────\n         Perkenalkan Saya Adalah Bot Marin,Saya harap Anda menikmati pengalaman pertama berinteraksi dengan saya,mohon diingat saya hanyalah seorang bot bukan orang biasa yang bisa chatan seperti orang pada umumnya,saya hanya merespon terhadap command yang diberikan${readMore}\n\nSaya telah menyertakan berbagai fitur untuk membantu Anda dalam hal yang inginn dibutuhkan dalam bot.\n\n         Semoga Anda menikmati menggunakan dashboard dari saya dan mendapatkan manfaat dari fitur-fitur yang saya tawarkan.\n> ────────────────`;
+    const text = `*\`🌟 Selamat datang di dashboard bot Pedro'sbot\`*!\n`
+    const caption = `> ────────────────\n         Perkenalkan Saya Adalah Torpedro,Saya harap Anda menikmati pengalaman pertama berinteraksi dengan saya,mohon diingat saya hanyalah seorang bot bukan orang biasa yang bisa chatan seperti orang pada umumnya,saya hanya merespon terhadap command yang diberikan${readMore}\n\nSaya telah menyertakan berbagai fitur untuk membantu Anda dalam hal yang inginn dibutuhkan dalam bot.\n\n         Semoga Anda menikmati menggunakan dashboard dari saya dan mendapatkan manfaat dari fitur-fitur yang saya tawarkan.\n> ────────────────`;
 
     let msg = generateWAMessageFromContent(m.chat, {
         viewOnceMessage: {
@@ -121,11 +121,11 @@ let handler = async (m, {
                   buttons: [
     {
         "name": "cta_url",
-        "buttonParamsJson": "{\"display_text\":\"GITHUB\",\"url\":\"https://www.github.com/FahriAdison\",\"merchant_url\":\"https://www.github.com/FahriAdison\"}"
+        "buttonParamsJson": "{\"display_text\":\"GITHUB\",\"url\":\"https://www.github.com\",\"merchant_url\":\"https://www.github.com\"}"
     },
     {
                  "name": "cta_call",
-                 "buttonParamsJson": "{\"display_text\":\"HUBUNGI\",\"id\":\"082268003229\"}"
+                 "buttonParamsJson": "{\"display_text\":\"HUBUNGI\",\"id\":\"6283803489747\"}"
                  },
     {
         "name": "quick_reply",
@@ -139,7 +139,7 @@ let handler = async (m, {
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                   newsletterJid: '120363272269077450@newsletter',
-                  newsletterName: '© M a r i n  K i t a g a w a',
+                  newsletterName: '© Ｐｅｄｒｏ-ｓｂｏｔ',
                   serverMessageId: 143
                 }
               }
