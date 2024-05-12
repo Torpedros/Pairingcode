@@ -273,7 +273,7 @@ thumbnail: await(await fetch(ppl)).buffer()
 				          isForwarded: true,
                           externalAdReply: {
                               showAdAttribution: false,
-                              title: 'Marin Kitagawa',
+                              title: 'Pedro-sbot',
                               body: `Bot Created By ${namaowner}`,
                               description: 'P',
                               thumbnail: await(await fetch(ppl)).buffer(),
@@ -284,7 +284,7 @@ thumbnail: await(await fetch(ppl)).buffer()
                           },
                            forwardedNewsletterMessageInfo: {
                               newsletterJid: '120363272269077450@newsletter',
-                              newsletterName: '© M a r i n  K i t a g a w a',
+                              newsletterName: '© Ｐｅｄｒｏ-ｓｂｏｔ',
                               serverMessageId: 143
                           }
                       }
