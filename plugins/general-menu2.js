@@ -111,7 +111,7 @@ let handler = async (m, {
                   text: me
                 }),
                 header: proto.Message.InteractiveMessage.Header.create({
-                ...(await prepareWAMessageMedia({ video : { url: 'https://telegra.ph/file/a481b43032eba628ffbeb.mp4'}}, { upload: conn.waUploadToServer})), 
+                ...(await prepareWAMessageMedia({ video : { url: 'https://telegra.ph/file/d1900567ce8a0c08cdae9.mp4'}}, { upload: conn.waUploadToServer})), 
                   title: text,
                   gifPlayback: true,
                   subtitle: me,
