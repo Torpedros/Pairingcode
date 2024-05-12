@@ -31,11 +31,12 @@ https://github.com/AyGemuy
 *❉ Fahri:*
 https://github.com/FahriAdison
 *❉ Johannes:*
-https://github.com/Johannes2803
+https://github.com/Johannes280
 *▸ - - - —「 SPESIAL HELPER 」— - - - ◂*
 *❉ Johannes:*
 *❉ Rlxfly:*
 *❉ Taylor/Wudy:*
+*❉ Torpedros:*
 `
     conn.reply(m.chat, tqto, m)
 }
