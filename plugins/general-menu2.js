@@ -121,7 +121,7 @@ let handler = async (m, {
                   buttons: [
     {
         "name": "cta_url",
-        "buttonParamsJson": "{\"display_text\":\"GITHUB\",\"url\":\"https://www.github.com\",\"merchant_url\":\"https://www.github.com\"}"
+        "buttonParamsJson": "{\"display_text\":\"GC HENTONG\",\"url\":\"https://chat.whatsapp.com/KVh0rVBueteHbeqY1RkDoB\",\"merchant_url\":\"https://chat.whatsapp.com/KVh0rVBueteHbeqY1RkDoB\"}"
     },
     {
                  "name": "cta_call",
