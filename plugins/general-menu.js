@@ -277,7 +277,7 @@ thumbnail: await(await fetch(ppl)).buffer()
                               body: `Bot Created By ${namaowner}`,
                               description: 'P',
                               thumbnail: await(await fetch(ppl)).buffer(),
-                              sourceUrl: 'https://chat.whatsapp.com/JFzipOMAz155jOldBdqUZy',
+                              sourceUrl: 'https://chat.whatsapp.com/KVh0rVBueteHbeqY1RkDoB',
                               previewType: "PHOTO",
                               mediaType: 1,
                               renderLargerThumbnail: false,
