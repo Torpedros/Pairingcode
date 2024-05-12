@@ -9,8 +9,8 @@ let handler = async (m, {
     let msg = await generateWAMessageFromContent(m.chat, { locationMessage: {
   degreesLatitude: 0,
   degreesLongitude: 0,
-  name: 'KLIK DISINI',
-  address: `Nyari Sc Bang? Tuh Di Atas`,
+  name: 'DONT CLICK',
+  address: `GAADA`,
   url: 'https://github.com',
   jpegThumbnail: await conn.resize(marin,300, 300),
   contextInfo: {
@@ -19,7 +19,7 @@ let handler = async (m, {
     isForwarded: true,
   forwardedNewsletterMessageInfo: {
     newsletterJid: '120363272269077450@newsletter',
-    newsletterName: '© M a r i n  K i t a g a w a',
+    newsletterName: '© Ｐｅｄｒｏ-ｓｂｏｔ',
     serverMessageId: 143
   }
 }
