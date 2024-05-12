@@ -262,7 +262,7 @@ thumbnail: await(await fetch(ppl)).buffer()
 })
 */
  await conn.sendMessage(m.chat, {
-                      video: { url: 'https://telegra.ph/file/a481b43032eba628ffbeb.mp4' },
+                      video: { url: 'https://telegra.ph/file/d1900567ce8a0c08cdae9.mp4' },
                       caption: text.trim(),
                       gifPlayback: true,
                       gifAttribution: Math.floor(Math.random() * 2) + 1,
