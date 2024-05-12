@@ -4,7 +4,7 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 import moment from "moment-timezone"
 
 async function loadConfig() {
-global.owner = [['+6285767373425', 'jhnspntx', true],['62895612153565'], ['6282268003229'], ['6283820073017'],['6283850230191'],["6283825536262"],['6285179855248']]
+global.owner = [['+6285767373425', 'Torpedro', true],['62895612153565'], ['6282268003229'], ['6283820073017'],['6283850230191'],["6283825536262"],['6285179855248']]
  // ['6283820073017', '436506665652696', '6285240750713']
   // [number, dia creator/owner?, dia developer?]
 // Put your number here
@@ -39,7 +39,7 @@ global.fla = [
 
 
 //===========> Sticker WM <==============//
-global.packname = `\t\t「 Simple Bot Whatsapp 」\n\t\t「 By : Kitagawa Marin Bot 」\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
+global.packname = `\t\t「 Simple Bot Whatsapp 」\n\t\t「 By : Pedro'sbot 」\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n`
 global.author = ''
 
 //===========> IMAGE <==============//
@@ -78,13 +78,13 @@ global.htka = '』––––––' // Hiasan Title  (KANAN)
 global.marin = "admin123"
 global.chara = "mOuKD3RdUXdqnaRRKjm8An-VwdRmJyD4KdCikYEwHEM"
 //===========> BAGIAN TEXT <==============//
-global.namaowner = 'JhnsPntx'
-global.me = 'Created By JhnsPntx'
+global.namaowner = 'Pedro'
+global.me = 'Created By Pedro'
 global.ownerbot = "6285767373425"
 global.nomorbot = '6289637133848'
-global.namebot = 'Kitagawa Marin'
+global.namebot = 'Pedros bot'
 global.wait = "_In progress, please wait..._"
-global.yt = "bit.ly/Papah-Chan"
+global.yt = "https://youtube.com"
 //WAJIB DIUBAH SESUAI SAMA DI OWNER-CREATEPANEL.JS
 global.egg = "YOUR EGG PANEL"
 global.location3 = "YOUR LOCATION PANEL"
